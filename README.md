@@ -1,1 +1,2 @@
-My first trial Updated
+My first trial 
+README update from github.com
